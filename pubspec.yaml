@@ -20,7 +20,7 @@ dependencies:
   universal_io: ^2.2.0
   w_common: ^3.0.0
   logger: ^1.4.0
-  http: ^0.13.6
+  http: ^1.1.0
   freezed_annotation: ^2.2.0
   smooth_page_indicator: ^1.1.0
 
