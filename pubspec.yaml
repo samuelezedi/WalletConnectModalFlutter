@@ -13,7 +13,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   walletconnect_flutter_v2: ^2.0.6
-  flutter_svg: ^2.0.6
+  flutter_svg: ^1.1.6
   qr_flutter: ^4.1.0
   json_annotation: ^4.8.1
   url_launcher: ^6.1.11
